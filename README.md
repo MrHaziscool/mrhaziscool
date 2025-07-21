@@ -6,4 +6,4 @@
 
 ##                                       THANKS FOR PLAYING:)
 
-![Alt Text](relative/path/to/IMG_6874.jpg)
+
