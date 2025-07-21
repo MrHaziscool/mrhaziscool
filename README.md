@@ -5,3 +5,5 @@
 ## 2. MrHaz's Easy Obby Link: https://www.roblox.com/games/92081625686722/MrHazs-Easy-Obby
 
 ##                                       THANKS FOR PLAYING:)
+
+![Alt Text](relative/path/to/IMG_6874.jpg)
